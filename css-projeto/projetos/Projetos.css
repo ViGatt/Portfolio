@@ -73,4 +73,5 @@ width: 24px;
 
 .bicicletas-lista img{
     width: 450px;
+    display: flex;
 }
