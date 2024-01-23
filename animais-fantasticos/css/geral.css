@@ -13,7 +13,7 @@ ul {
 }
 
 body {
-  background: #faf6ed;
+  background: #ffff;
   color: #222;
   -webkit-font-smoothing: antialiased;
 }
@@ -27,7 +27,7 @@ body {
   grid-column: 3 / 5;
   margin-top: 2rem;
   margin-bottom: 2rem;
-  background: #FB5;
+  background: #00687d;
 }
 
 .menu ul {
@@ -75,7 +75,7 @@ body {
   text-transform: uppercase;
   letter-spacing: .1em;
   margin-bottom: 1rem;
-  color: #E54;
+  color: #0096B5;
 }
 
 .animais h2::before {
@@ -84,7 +84,7 @@ body {
   width: 40px;
   height: 10px;
   margin-right: 10px;
-  background: #FB5;
+  background: #00687d;
 }
 
 .animais p {
@@ -108,7 +108,7 @@ body {
 }
 
 .animais-lista::-webkit-scrollbar-thumb {
-  background: #FB5;
+  background: #00687d;
   border-left: 4px solid #faf6ed;
   border-right: 4px solid #faf6ed;
 }
@@ -134,7 +134,7 @@ body {
   font-weight: bold;
   margin-top: 2rem;
   margin-bottom: .5rem;
-  color: #E54;
+  color: #0096B5;
 }
 
 .faq-lista dt::before {
@@ -143,7 +143,7 @@ body {
   width: 20px;
   height: 10px;
   margin-right: 10px;
-  background: #FB5;
+  background: #00687d;
 }
 
 .faq-lista dd {
@@ -171,13 +171,13 @@ body {
   width: 20px;
   height: 10px;
   margin-right: 10px;
-  background: #FB5;
+  background: #00687d;
 }
 
 .copy {
   grid-column: 3/5;
   margin-bottom: 2rem;
-  background: #FB5;
+  background: #00687d;
 }
 
 .copy p {
@@ -261,7 +261,7 @@ body {
   width: 10px;
   height: 10px;
   display: inline-block;
-  background: url('../img/arrow-red.svg') no-repeat center center;
+  background: url('../img/arrow-blue.svg') no-repeat center center;
   margin-left: 10px;
   transform: rotate(90deg);
   transition: transform .3s;
@@ -304,7 +304,7 @@ body {
   content: '';
   width: 6px;
   height: 6px;
-  background: #E54;
+  background: #0096B5;
   border-radius: 50%;
   margin-left: 4px;
   border: 2px solid #000;
