@@ -94,9 +94,12 @@ body {
 }
 
 .animais-lista {
-  height: 370px;
+  height: 600px;
   overflow-y: scroll;
-  grid-column: 2;
+  grid-column: 3;
+  justify-content: space-between;
+  border-collapse: collapse;
+
 }
 
 .animais-lista li {
